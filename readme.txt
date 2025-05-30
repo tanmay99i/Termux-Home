@@ -1,4 +1,4 @@
-# Termux Styler
+# Termux Styler by @tanmay99i #tanmaysinghyadav
 
 A Python tool for customizing your Termux experience with beautiful color themes, ASCII art banners, and custom home directories.
 
@@ -74,11 +74,4 @@ A Python tool for customizing your Termux experience with beautiful color themes
 ```
 
 ---
-
-**How to use:**
-- Replace `yourusername` in the clone URL with your actual GitHub username.
-- Add screenshots or GIFs if you want to make your project more attractive.
-- The “Credits” section will appear at the bottom, giving you clear recognition.
-
-Let me know if you want a fancier style, more badges, or any other README enhancements!
 
