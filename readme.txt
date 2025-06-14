@@ -1,4 +1,4 @@
-# Termux Styler by @tanmay99i #tanmaysinghyadav
+# Termux Default Styler by @tanmay99i #tanmaysinghyadav #termuxtools @tanmay99i 
 
 A Python tool for customizing your Termux experience with beautiful color themes, ASCII art banners, and custom home directories.
 
@@ -9,19 +9,8 @@ A Python tool for customizing your Termux experience with beautiful color themes
 - Custom bash prompt and ASCII art banner
 - One-command setup
 
-## Usage
-
-1. Clone this repo:
 
 
-
-readme will also contain credit like made by tanmay99i
-
-Certainly! Here’s a **polished README.md** for your Termux Styler project, including credits for you as the creator:
-
----
-
-```markdown
 # Termux Styler
 
 A Python tool for customizing your Termux experience with beautiful color themes, ASCII art banners, and custom home directories.
@@ -47,7 +36,8 @@ A Python tool for customizing your Termux experience with beautiful color themes
 
 2. **Run the script:**
    ```
-   python3 termux_styler.py
+   python3 kkk.py
+
    ```
 
 3. **Follow the prompts** to choose your theme, username, and home directory.
