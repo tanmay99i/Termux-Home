@@ -26,23 +26,49 @@ A Python tool for customizing your Termux experience with beautiful color themes
 
 ---
 
+
+
+
+
 ## Usage
 
-1. **Clone this repo:**
-   ```
-   git clone https://github.com/yourusername/termux-styler.git
-   cd termux-styler
-   ```
+FOLLOW THE STEPS : OR JUST COPY PASTE 😂🤣😁😃
 
-2. **Run the script:**
-   ```
-   python3 kkk.py
 
-   ```
+1. Clone this : 
+
+git clone https://github.com/tanmay99i/Termux-Home.git
+
+
+2. Clone this : 
+
+
+   
+cd Termux-Home
+
+
+
+
+3. Clone this : 
+   
+   
+python3 homeG4K.py
+
+or
+
+python homeG4K.py
+
+or
+
+bash home.sh
+
+
+   
+
 
 3. **Follow the prompts** to choose your theme, username, and home directory.
 
-4. **Restart Termux** to enjoy your new look!
+4. ** Type Exit to Restart Termux  ** to enjoy your new look!
 
 ---
 
