@@ -26,21 +26,17 @@ A Python tool for customizing your Termux experience with beautiful color themes
 
 ---
 
-
-
-
-
 ## Usage
 
 FOLLOW THE STEPS : OR JUST COPY PASTE 😂🤣😁😃
 
 
-1. Clone this : 
+1. Clone/Copy-Paste/Type this :  
 
 git clone https://github.com/tanmay99i/Termux-Home.git
 
 
-2. Clone this : 
+2. Clone/Copy-Paste/Type this :  
 
 
    
@@ -49,7 +45,7 @@ cd Termux-Home
 
 
 
-3. Clone this : 
+3. Clone/Copy-Paste/Type this :  
    
    
 python3 homeG4K.py
