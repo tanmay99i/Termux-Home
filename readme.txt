@@ -76,7 +76,7 @@ bash home.sh
 
 ## Credits
 
-**Made with ❤️ by [tanmay99i](https://github.com/tanmay99i)**
+**Made with ❤️ by [tanmay99i](https://github.com/tanmay99i)
 
 ---
 
